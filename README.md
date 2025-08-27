@@ -1,7 +1,7 @@
 # 🎮 Animation Gaming Website
 Welcome to my Animation Gaming Website! This project showcases an interactive and visually appealing platform featuring engaging animations and gaming elements. Explore the link below to experience the site in action. Feedback and suggestions are highly appreciated to help improve the experience further.
 
-Access the Animation Gaming Website
+#### Access the Animation Gaming Website
 https://srivastavapk418.github.io/Animation-Gaming-Website/
 
 An interactive **gaming-themed website** with heavy use of **animations and video transitions**.  
@@ -28,7 +28,7 @@ The project demonstrates advanced frontend design with **multiple videos on the 
 
 ## 📸 Demo & Preview
 
-👉 **Screenshots**
+### 👉 **Screenshots**
 <img width="1920" height="856" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/4858e113-eba9-47d0-9823-6777d353d01d" />
 <img width="1920" height="857" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/db37f089-474c-4aad-814e-a0bda7a7ccc2" />
 <img width="1920" height="861" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/8dd72934-285f-450a-9b63-eea4940900ac" />
@@ -39,29 +39,39 @@ The project demonstrates advanced frontend design with **multiple videos on the 
 <img width="1920" height="862" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/790ad58d-ccc3-4afa-a3d1-00aeeb122c0b" />
 <img width="1920" height="887" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/29619fea-309e-434d-8ff6-fb4890b77c14" />
 
-📹 **Video Demo**:  
+--
 
+### 📹 **Video Demo**:  
+**https://www.loom.com/share/b9b9a02245a74d78854b6f569b901e9f?sid=15cb143b-37be-4259-94be-9ba97750f682**
 
-⚡ Installation & Setup
-Clone the repository:
-git clone https://github.com/srivastavapk418/Animation-Gaming-Website.git
-cd Animation-Gaming-Website
-Open index.html in your browser, or use Live Server in VSCode.
+---
 
-📂 Project Structure
+## ⚡ Installation & Setup
+### Clone the repository:
+- git clone https://github.com/srivastavapk418/Animation-Gaming-Website.git
+- cd Animation-Gaming-Website
+- Open index.html in your browser, or use Live Server in VSCode.
+
+---
+
+## 📂 Project Structure
 Animation-Gaming-Website/
 │── index.html       # Homepage
 │── style.css        # Styling and animations
 │── script.js        # Interactivity (video switching, animations)
 │── assets/          # Videos, images, icons
 
-🌟 Future Enhancements
-Add navigation to gaming sections.
-Introduce interactive mini-games.
-Optimize video loading for slower connections.
+---
 
-👨‍💻 Author
-Prateek Kumar Srivastava
-📧 srivastavapk418@gmail.com
-🔗 GitHub
+## 🌟 Future Enhancements
+- Add navigation to gaming sections.
+- Introduce interactive mini-games.
+- Optimize video loading for slower connections.
+
+---
+
+### 👨‍💻 Author
+- Prateek Kumar Srivastava
+- 📧 srivastavapk418@gmail.com
+- 🔗 GitHub
 
