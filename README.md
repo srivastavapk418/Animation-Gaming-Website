@@ -20,7 +20,7 @@ The project demonstrates advanced frontend design with **multiple videos on the 
 
 ## 🏗️ Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript  
+- **Frontend**: React+Vite with Tailwind CSS 
 - **Animations**: CSS transitions / GSAP 
 - **Media**: Video backgrounds and interactive video switching  
 
