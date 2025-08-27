@@ -28,12 +28,19 @@ The project demonstrates advanced frontend design with **multiple videos on the 
 
 ## 📸 Demo & Preview
 
-👉 Add screenshots 
+👉 **Screenshots**
+<img width="1920" height="856" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/4858e113-eba9-47d0-9823-6777d353d01d" />
+<img width="1920" height="857" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/db37f089-474c-4aad-814e-a0bda7a7ccc2" />
+<img width="1920" height="861" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/8dd72934-285f-450a-9b63-eea4940900ac" />
+<img width="1920" height="861" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/f1441700-dd7a-4f14-95f0-2450ffb1dfa6" />
+<img width="1920" height="862" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/6192dfef-71b4-4119-817d-f6f6c5cbe8a7" />
+<img width="1920" height="853" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/40db2cba-8446-4cc0-a902-d1d9a5030c62" />
+<img width="1920" height="863" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/3118a4e3-d38a-4194-9231-f2e16fc973bd" />
+<img width="1920" height="862" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/790ad58d-ccc3-4afa-a3d1-00aeeb122c0b" />
+<img width="1920" height="887" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/29619fea-309e-434d-8ff6-fb4890b77c14" />
 
 📹 **Video Demo**:  
-Yes, you can
 
-https://user-images.githubusercontent.com/your-github-username/demo-video.mp4
 
 ⚡ Installation & Setup
 Clone the repository:
